@@ -1,0 +1,12 @@
+2023-08-24 17:15:51,537 - __main__ - INFO - Testing logger!!!
+2023-08-24 17:15:51,548 - __main__ - ERROR - division by zero
+Traceback (most recent call last):
+  File "d:\MS\projects\utube\Rick_Morty\utils\logger.py", line 69, in <module>
+    a = 1/0
+ZeroDivisionError: division by zero
+2023-08-24 17:18:33,062 - __main__ - INFO - Testing logger!!!
+2023-08-24 17:18:33,063 - __main__ - ERROR - division by zero
+Traceback (most recent call last):
+  File "d:\MS\projects\utube\Rick_Morty\utils\logger.py", line 69, in <module>
+    a = 1/0
+ZeroDivisionError: division by zero
